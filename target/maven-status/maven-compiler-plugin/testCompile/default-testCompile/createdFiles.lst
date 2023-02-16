@@ -1,0 +1,12 @@
+utils/WindowHandler.class
+steps/TechGlobalSteps.class
+runner/Runner.class
+utils/Waiter.class
+pages/TechGlobalBasePage.class
+pages/TechGlobalPaginationPage.class
+steps/Hooks.class
+utils/ConfigReader.class
+utils/TextHandler.class
+pages/TechGlobalFrontendTestingHomePage.class
+utils/DropdownHandler.class
+utils/Driver.class

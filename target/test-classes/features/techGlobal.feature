@@ -12,4 +12,3 @@ Background:
     And user should see "Pagination" heading
     And user should see "World City Populations 2022" heading
     And user should see "What are the most populated cities in the world? Here is a list of the top five most populated cities in the world:" paragraph
-
