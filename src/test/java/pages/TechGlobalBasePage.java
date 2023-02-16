@@ -18,11 +18,6 @@ public class TechGlobalBasePage {
     @FindBy(css = "#dropdown-menu a")
     public List<WebElement> headerDropdownOptions;
 
-    @FindBy(css = ".Footer_footer__kXlYa p")
-    public List<WebElement> footerParagraphs;
-
-    @FindBy(css = ".Footer_footer__kXlYa a")
-    public List<WebElement> footerSocialLinks;
 
 
 }
