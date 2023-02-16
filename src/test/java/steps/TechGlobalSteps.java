@@ -75,5 +75,44 @@ public class TechGlobalSteps {
             Assert.assertEquals(paragraph, techGlobalPaginationPage.contentParagraph.getText());
     }
 
+    @And("user should see {string} button is disabled")
+    public void userShouldSeeButtonIsDisabled(String button) {
+        switch(button){
+            case "Previous":
+                Assert.assertFalse(techGlobalPaginationPage.previousButton.isEnabled());
+                break;
+            case "Next" :
+                Assert.assertFalse(techGlobalPaginationPage.nextButton.isEnabled());
+                break;
+            default:
+                throw new NotFoundException();
+        }
+    }
+
+    @And("user should see {string} button is enabled")
+    public void userShouldSeeButtonIsEnabled(String button) {
+        switch(button){
+            case "Previous":
+                Assert.assertTrue(techGlobalPaginationPage.previousButton.isEnabled());
+                break;
+            case "Next":
+                Assert.assertTrue(techGlobalPaginationPage.nextButton.isEnabled());
+                break;
+            default:
+                throw new NotFoundException();
+        }
+    }
+
+    @When("user clicks on Next button")
+    public void userClicksOnButton() {
+        techGlobalPaginationPage.nextButton.click();
+    }
+
+    @When("user clicks on Next button till it becomes disabled")
+    public void userClicksOnButtonTillItBecomesDisabled() {
+        while(techGlobalPaginationPage.nextButton.isEnabled()){
+            techGlobalPaginationPage.nextButton.click();
+        }
+    }
 }
 

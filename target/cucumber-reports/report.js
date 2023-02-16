@@ -110,4 +110,150 @@ formatter.result({
 formatter.after({
   "status": "passed"
 });
+formatter.background({
+  "name": "",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user is on \"https://techglobal-training.netlify.app/\"",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userIsOn(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user moves to Practices header dropdown",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on Frontend Testing header dropdown option",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on \"Pagination\" card",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userClicksOnCard(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Validate the Pagination Page Next/Previous buttons",
+  "description": "",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "name": "user should see \"Previous\" button is disabled",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldSeeButtonIsDisabled(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should see \"Next\" button is enabled",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldSeeButtonIsEnabled(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on Next button",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userClicksOnButton()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should see \"Previous\" button is enabled",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldSeeButtonIsEnabled(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on Next button till it becomes disabled",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userClicksOnButtonTillItBecomesDisabled()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should see \"Previous\" button is enabled",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldSeeButtonIsEnabled(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user should see \"Next\" button is disabled",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "TechGlobalSteps.userShouldSeeButtonIsDisabled(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 });
