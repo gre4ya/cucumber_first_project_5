@@ -21,3 +21,27 @@ Background:
     When user clicks on Next button till it becomes disabled
     Then user should see "Previous" button is enabled
     And user should see "Next" button is disabled
+
+  Scenario Outline: Validate the Pagination Page cities content
+    And user should see "<city>" city with info below and an image
+      |City: Tokyo| Country: Japan| Population: 37,435,191|
+    When user clicks on Next button
+    And user should see "<city>" city with info below and an image
+      |City: Delhi| Country: India| Population: 29,399,141|
+    When user clicks on Next button
+    And user should see "<city>" city with info below and an image
+      |City: Shangai| Country: China| Population: 26,317,104|
+    When user clicks on Next button
+    And user should see "<city>" city with info below and an image
+      |City: Sao Paulo| Country: Brasil| Population: 21,846,507|
+    When user clicks on Next button
+    And user should see "<city>" city with info below and an image
+      |City: Mexico City| Country: Mexico| Population: 21,671,908|
+
+    Examples:
+    |city|
+    |Tokyo|
+    |Delhi|
+    |Shangai|
+    |Sao Paulo|
+    |Mexico City|

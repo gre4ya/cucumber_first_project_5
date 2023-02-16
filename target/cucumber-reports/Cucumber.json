@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1047842672,
+              "duration": 1582483431,
               "status": "passed"
             },
             "line": 4,
@@ -29,7 +29,7 @@
           },
           {
             "result": {
-              "duration": 99994822,
+              "duration": 196417644,
               "status": "passed"
             },
             "line": 5,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 530870800,
+              "duration": 737151516,
               "status": "passed"
             },
             "line": 6,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 12887013,
+              "duration": 10357030,
               "status": "passed"
             },
             "line": 7,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 363449957,
+              "duration": 376951480,
               "status": "passed"
             },
             "line": 8,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 11741444,
+              "duration": 14213431,
               "status": "passed"
             },
             "line": 9,
@@ -111,7 +111,7 @@
         "before": [
           {
             "result": {
-              "duration": 3681432804,
+              "duration": 22394573644,
               "status": "passed"
             },
             "match": {
@@ -126,7 +126,7 @@
         "after": [
           {
             "result": {
-              "duration": 307112853,
+              "duration": 167744270,
               "status": "passed"
             },
             "match": {
@@ -139,7 +139,7 @@
         "steps": [
           {
             "result": {
-              "duration": 32691879,
+              "duration": 21706324,
               "status": "passed"
             },
             "line": 12,
@@ -157,7 +157,7 @@
           },
           {
             "result": {
-              "duration": 73043640,
+              "duration": 22114055,
               "status": "passed"
             },
             "line": 13,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 104909222,
+              "duration": 23486423,
               "status": "passed"
             },
             "line": 14,
@@ -202,7 +202,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1258483713,
+              "duration": 861113780,
               "status": "passed"
             },
             "line": 4,
@@ -220,7 +220,7 @@
           },
           {
             "result": {
-              "duration": 94885052,
+              "duration": 158465152,
               "status": "passed"
             },
             "line": 5,
@@ -232,7 +232,7 @@
           },
           {
             "result": {
-              "duration": 543358383,
+              "duration": 617498871,
               "status": "passed"
             },
             "line": 6,
@@ -244,7 +244,7 @@
           },
           {
             "result": {
-              "duration": 9721841,
+              "duration": 6389208,
               "status": "passed"
             },
             "line": 7,
@@ -262,7 +262,7 @@
           },
           {
             "result": {
-              "duration": 391621755,
+              "duration": 369520905,
               "status": "passed"
             },
             "line": 8,
@@ -280,7 +280,7 @@
           },
           {
             "result": {
-              "duration": 12207584,
+              "duration": 6672498,
               "status": "passed"
             },
             "line": 9,
@@ -302,7 +302,7 @@
         "before": [
           {
             "result": {
-              "duration": 2613884653,
+              "duration": 2858437140,
               "status": "passed"
             },
             "match": {
@@ -317,7 +317,7 @@
         "after": [
           {
             "result": {
-              "duration": 172221953,
+              "duration": 180535630,
               "status": "passed"
             },
             "match": {
@@ -330,7 +330,7 @@
         "steps": [
           {
             "result": {
-              "duration": 27112964,
+              "duration": 20077430,
               "status": "passed"
             },
             "line": 17,
@@ -348,7 +348,7 @@
           },
           {
             "result": {
-              "duration": 24365673,
+              "duration": 40755701,
               "status": "passed"
             },
             "line": 18,
@@ -366,7 +366,7 @@
           },
           {
             "result": {
-              "duration": 36772830,
+              "duration": 309871115,
               "status": "passed"
             },
             "line": 19,
@@ -378,7 +378,7 @@
           },
           {
             "result": {
-              "duration": 11136137,
+              "duration": 196233758,
               "status": "passed"
             },
             "line": 20,
@@ -396,7 +396,7 @@
           },
           {
             "result": {
-              "duration": 571202206,
+              "duration": 143861455,
               "status": "passed"
             },
             "line": 21,
@@ -408,7 +408,7 @@
           },
           {
             "result": {
-              "duration": 14045221,
+              "duration": 11104193,
               "status": "passed"
             },
             "line": 22,
@@ -426,7 +426,7 @@
           },
           {
             "result": {
-              "duration": 18336136,
+              "duration": 13659344,
               "status": "passed"
             },
             "line": 23,
@@ -440,6 +440,1611 @@
               ],
               "location": "TechGlobalSteps.userShouldSeeButtonIsDisabled(String)"
             },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 938291498,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 125762289,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 491246473,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6559046,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 358041957,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7809242,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2894580851,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality;validate-the-pagination-page-cities-content;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 193930823,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.runtime.CucumberException: Could not convert arguments for step [user should see {string} city with info below and an image] defined at \u0027steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/\u0027.\nThe details are in the stacktrace below.\n\tat cucumber.runner.PickleStepDefinitionMatch.couldNotConvertArguments(PickleStepDefinitionMatch.java:69)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:46)\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:63)\n\tat cucumber.runner.TestStep.run(TestStep.java:49)\n\tat cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)\n\tat cucumber.runner.TestCase.run(TestCase.java:44)\n\tat cucumber.runner.Runner.runPickle(Runner.java:40)\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\nCaused by: io.cucumber.datatable.CucumberDataTableException: Can\u0027t convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]\n\tat io.cucumber.datatable.CucumberDataTableException.cantConvertTo(CucumberDataTableException.java:19)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.toSingleton(DataTableTypeRegistryTableConverter.java:113)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.convert(DataTableTypeRegistryTableConverter.java:75)\n\tat io.cucumber.datatable.DataTable.convert(DataTable.java:362)\n\tat io.cucumber.stepexpression.StepExpressionFactory$3.transform(StepExpressionFactory.java:73)\n\tat io.cucumber.stepexpression.DataTableArgument.getValue(DataTableArgument.java:19)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:41)\n\t... 32 more\n",
+              "duration": 2081366,
+              "status": "failed"
+            },
+            "line": 26,
+            "name": "user should see \"Tokyo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tokyo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13697,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8450,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user should see \"Tokyo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tokyo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5393,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5416,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user should see \"Tokyo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tokyo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5194,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4794,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user should see \"Tokyo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tokyo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4632,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4992,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "user should see \"Tokyo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tokyo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 881521517,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 99207719,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 540332653,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6720756,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 322841635,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7818379,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2676633351,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 44,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality;validate-the-pagination-page-cities-content;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 150573202,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.runtime.CucumberException: Could not convert arguments for step [user should see {string} city with info below and an image] defined at \u0027steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/\u0027.\nThe details are in the stacktrace below.\n\tat cucumber.runner.PickleStepDefinitionMatch.couldNotConvertArguments(PickleStepDefinitionMatch.java:69)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:46)\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:63)\n\tat cucumber.runner.TestStep.run(TestStep.java:49)\n\tat cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)\n\tat cucumber.runner.TestCase.run(TestCase.java:44)\n\tat cucumber.runner.Runner.runPickle(Runner.java:40)\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\nCaused by: io.cucumber.datatable.CucumberDataTableException: Can\u0027t convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]\n\tat io.cucumber.datatable.CucumberDataTableException.cantConvertTo(CucumberDataTableException.java:19)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.toSingleton(DataTableTypeRegistryTableConverter.java:113)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.convert(DataTableTypeRegistryTableConverter.java:75)\n\tat io.cucumber.datatable.DataTable.convert(DataTable.java:362)\n\tat io.cucumber.stepexpression.StepExpressionFactory$3.transform(StepExpressionFactory.java:73)\n\tat io.cucumber.stepexpression.DataTableArgument.getValue(DataTableArgument.java:19)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:41)\n\t... 32 more\n",
+              "duration": 309776,
+              "status": "failed"
+            },
+            "line": 26,
+            "name": "user should see \"Delhi\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Delhi\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41794,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6761,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user should see \"Delhi\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Delhi\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5252,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4885,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user should see \"Delhi\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Delhi\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5632,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38053,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user should see \"Delhi\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Delhi\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5034,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4960,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "user should see \"Delhi\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Delhi\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 902528421,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113965192,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 477993144,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6082706,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 327997157,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5698997,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2636567470,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 45,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality;validate-the-pagination-page-cities-content;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 159604240,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.runtime.CucumberException: Could not convert arguments for step [user should see {string} city with info below and an image] defined at \u0027steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/\u0027.\nThe details are in the stacktrace below.\n\tat cucumber.runner.PickleStepDefinitionMatch.couldNotConvertArguments(PickleStepDefinitionMatch.java:69)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:46)\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:63)\n\tat cucumber.runner.TestStep.run(TestStep.java:49)\n\tat cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)\n\tat cucumber.runner.TestCase.run(TestCase.java:44)\n\tat cucumber.runner.Runner.runPickle(Runner.java:40)\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\nCaused by: io.cucumber.datatable.CucumberDataTableException: Can\u0027t convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]\n\tat io.cucumber.datatable.CucumberDataTableException.cantConvertTo(CucumberDataTableException.java:19)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.toSingleton(DataTableTypeRegistryTableConverter.java:113)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.convert(DataTableTypeRegistryTableConverter.java:75)\n\tat io.cucumber.datatable.DataTable.convert(DataTable.java:362)\n\tat io.cucumber.stepexpression.StepExpressionFactory$3.transform(StepExpressionFactory.java:73)\n\tat io.cucumber.stepexpression.DataTableArgument.getValue(DataTableArgument.java:19)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:41)\n\t... 32 more\n",
+              "duration": 250112,
+              "status": "failed"
+            },
+            "line": 26,
+            "name": "user should see \"Shangai\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Shangai\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4539,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3362,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user should see \"Shangai\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Shangai\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3113,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3172,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user should see \"Shangai\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Shangai\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3025,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3200,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user should see \"Shangai\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Shangai\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2823,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2869,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "user should see \"Shangai\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Shangai\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 914473196,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 98015910,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 581690554,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14178083,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 334410000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14427100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2659647342,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 46,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality;validate-the-pagination-page-cities-content;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 171982089,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.runtime.CucumberException: Could not convert arguments for step [user should see {string} city with info below and an image] defined at \u0027steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/\u0027.\nThe details are in the stacktrace below.\n\tat cucumber.runner.PickleStepDefinitionMatch.couldNotConvertArguments(PickleStepDefinitionMatch.java:69)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:46)\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:63)\n\tat cucumber.runner.TestStep.run(TestStep.java:49)\n\tat cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)\n\tat cucumber.runner.TestCase.run(TestCase.java:44)\n\tat cucumber.runner.Runner.runPickle(Runner.java:40)\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\nCaused by: io.cucumber.datatable.CucumberDataTableException: Can\u0027t convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]\n\tat io.cucumber.datatable.CucumberDataTableException.cantConvertTo(CucumberDataTableException.java:19)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.toSingleton(DataTableTypeRegistryTableConverter.java:113)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.convert(DataTableTypeRegistryTableConverter.java:75)\n\tat io.cucumber.datatable.DataTable.convert(DataTable.java:362)\n\tat io.cucumber.stepexpression.StepExpressionFactory$3.transform(StepExpressionFactory.java:73)\n\tat io.cucumber.stepexpression.DataTableArgument.getValue(DataTableArgument.java:19)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:41)\n\t... 32 more\n",
+              "duration": 315139,
+              "status": "failed"
+            },
+            "line": 26,
+            "name": "user should see \"Sao Paulo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sao Paulo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4774,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3364,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user should see \"Sao Paulo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sao Paulo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2779,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3018,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user should see \"Sao Paulo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sao Paulo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2836,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3013,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user should see \"Sao Paulo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sao Paulo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2861,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2914,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "user should see \"Sao Paulo\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sao Paulo\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 876211301,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 99274065,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 542901417,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7706788,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 345027146,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6037570,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2711124658,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 47,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality;validate-the-pagination-page-cities-content;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 126427078,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.runtime.CucumberException: Could not convert arguments for step [user should see {string} city with info below and an image] defined at \u0027steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/\u0027.\nThe details are in the stacktrace below.\n\tat cucumber.runner.PickleStepDefinitionMatch.couldNotConvertArguments(PickleStepDefinitionMatch.java:69)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:46)\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:63)\n\tat cucumber.runner.TestStep.run(TestStep.java:49)\n\tat cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)\n\tat cucumber.runner.TestCase.run(TestCase.java:44)\n\tat cucumber.runner.Runner.runPickle(Runner.java:40)\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\nCaused by: io.cucumber.datatable.CucumberDataTableException: Can\u0027t convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]\n\tat io.cucumber.datatable.CucumberDataTableException.cantConvertTo(CucumberDataTableException.java:19)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.toSingleton(DataTableTypeRegistryTableConverter.java:113)\n\tat io.cucumber.datatable.DataTableTypeRegistryTableConverter.convert(DataTableTypeRegistryTableConverter.java:75)\n\tat io.cucumber.datatable.DataTable.convert(DataTable.java:362)\n\tat io.cucumber.stepexpression.StepExpressionFactory$3.transform(StepExpressionFactory.java:73)\n\tat io.cucumber.stepexpression.DataTableArgument.getValue(DataTableArgument.java:19)\n\tat cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:41)\n\t... 32 more\n",
+              "duration": 220076,
+              "status": "failed"
+            },
+            "line": 26,
+            "name": "user should see \"Mexico City\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mexico City\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3279,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2084,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user should see \"Mexico City\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mexico City\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2226,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2909,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user should see \"Mexico City\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mexico City\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2912,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2737,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user should see \"Mexico City\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mexico City\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2692,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user clicks on Next button",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2674,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "user should see \"Mexico City\" city with info below and an image",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mexico City\"",
+                  "offset": 16
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
             "keyword": "And "
           }
         ]

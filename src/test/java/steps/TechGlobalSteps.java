@@ -5,7 +5,9 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import io.cucumber.datatable.DataTable;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.NotFoundException;
 import org.openqa.selenium.WebDriver;
 import pages.TechGlobalBasePage;
@@ -13,6 +15,7 @@ import pages.TechGlobalFrontendTestingHomePage;
 import pages.TechGlobalPaginationPage;
 import utils.ConfigReader;
 import utils.Driver;
+import utils.Waiter;
 import utils.WindowHandler;
 
 public class TechGlobalSteps {
@@ -112,6 +115,25 @@ public class TechGlobalSteps {
     public void userClicksOnButtonTillItBecomesDisabled() {
         while(techGlobalPaginationPage.nextButton.isEnabled()){
             techGlobalPaginationPage.nextButton.click();
+        }
+    }
+
+
+    @And("user should see {string} city with info below and an image")
+    public void userShouldSeeCityWithInfoBelowAndAnImage(DataTable cityData, String city) {
+        switch(city){
+            case "Tokyo":
+            case "Delhi":
+            case "Shangai":
+            case "Sao Paulo":
+            case "Mexico City":
+                Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='" + city + "']")).isDisplayed());
+                for (int i = 0; i < cityData.asList().size(); i++) {
+                    Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
+                }
+                break;
+            default:
+                throw new NotFoundException();
         }
     }
 }

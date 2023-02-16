@@ -1,4 +1,34 @@
 -------------------------------------------------------------------------------
 Test set: runner.Runner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.478 s - in runner.Runner
+Tests run: 7, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 56.188 s <<< FAILURE! - in runner.Runner
+Validate the Pagination Page cities content(TechGlobal Pagination Functionality)  Time elapsed: 5.026 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+Could not convert arguments for step [user should see {string} city with info below and an image] defined at 'steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/'.
+The details are in the stacktrace below.
+Caused by: io.cucumber.datatable.CucumberDataTableException: Can't convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]
+
+Validate the Pagination Page cities content(TechGlobal Pagination Functionality)  Time elapsed: 4.682 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+Could not convert arguments for step [user should see {string} city with info below and an image] defined at 'steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/'.
+The details are in the stacktrace below.
+Caused by: io.cucumber.datatable.CucumberDataTableException: Can't convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]
+
+Validate the Pagination Page cities content(TechGlobal Pagination Functionality)  Time elapsed: 4.632 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+Could not convert arguments for step [user should see {string} city with info below and an image] defined at 'steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/'.
+The details are in the stacktrace below.
+Caused by: io.cucumber.datatable.CucumberDataTableException: Can't convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]
+
+Validate the Pagination Page cities content(TechGlobal Pagination Functionality)  Time elapsed: 4.791 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+Could not convert arguments for step [user should see {string} city with info below and an image] defined at 'steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/'.
+The details are in the stacktrace below.
+Caused by: io.cucumber.datatable.CucumberDataTableException: Can't convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]
+
+Validate the Pagination Page cities content(TechGlobal Pagination Functionality)  Time elapsed: 4.716 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+Could not convert arguments for step [user should see {string} city with info below and an image] defined at 'steps.TechGlobalSteps.userShouldSeeCityWithInfoBelowAndAnImage(DataTable,String) in file:/Users/gre4ya/IdeaProjects/cucumber_first_project_5/target/test-classes/'.
+The details are in the stacktrace below.
+Caused by: io.cucumber.datatable.CucumberDataTableException: Can't convert DataTable to java.lang.String. The table contained more then one item: [City: Tokyo, Country: Japan, Population: 37,435,191]
+
