@@ -118,23 +118,65 @@ public class TechGlobalSteps {
         }
     }
 
-
-    @And("user should see {string} city with info below and an image")
-    public void userShouldSeeCityWithInfoBelowAndAnImage(DataTable cityData, String city) {
-        switch(city){
-            case "Tokyo":
-            case "Delhi":
-            case "Shangai":
-            case "Sao Paulo":
-            case "Mexico City":
-                Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='" + city + "']")).isDisplayed());
+    @And("user should see Tokyo city with info below and an image")
+    public void userShouldSeeTokyoCityWithInfoBelowAndAnImage(DataTable cityData) {
+        Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='Tokyo']")).isDisplayed());
                 for (int i = 0; i < cityData.asList().size(); i++) {
                     Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
                 }
-                break;
-            default:
-                throw new NotFoundException();
+    }
+
+    @And("user should see Delhi city with info below and an image")
+    public void userShouldSeeDelhiCityWithInfoBelowAndAnImage(DataTable cityData) {
+        Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='Delhi']")).isDisplayed());
+        for (int i = 0; i < cityData.asList().size(); i++) {
+            Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
         }
     }
+
+    @And("user should see Shangai city with info below and an image")
+    public void userShouldSeeShangaiCityWithInfoBelowAndAnImage(DataTable cityData) {
+        Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='Shangai']")).isDisplayed());
+        for (int i = 0; i < cityData.asList().size(); i++) {
+            Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
+        }
+    }
+
+    @And("user should see Sao Paulo city with info below and an image")
+    public void userShouldSeeSaoPauloCityWithInfoBelowAndAnImage(DataTable cityData) {
+        Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='Sao Paulo']")).isDisplayed());
+        for (int i = 0; i < cityData.asList().size(); i++) {
+            Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
+        }
+    }
+
+    @And("user should see Mexico City city with info below and an image")
+    public void userShouldSeeMexicoCityCityWithInfoBelowAndAnImage(DataTable cityData) {
+        Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='Mexico City']")).isDisplayed());
+        for (int i = 0; i < cityData.asList().size(); i++) {
+            Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
+        }
+    }
+
+
+//    @And("user should see {string} city with info below and an image")
+//    public void userShouldSeeCityWithInfoBelowAndAnImage(DataTable cityData, String city) {
+//        switch(city){
+//            case "Tokyo":
+//            case "Delhi":
+//            case "Shangai":
+//            case "Sao Paulo":
+//            case "Mexico City":
+//                Assert.assertTrue(driver.findElement(By.cssSelector("img[alt='" + city + "']")).isDisplayed());
+//                for (int i = 0; i < cityData.asList().size(); i++) {
+//                    Assert.assertEquals(cityData.asList().get(i), techGlobalPaginationPage.citiesData.get(i).getText());
+//                }
+//                break;
+//            default:
+//                throw new NotFoundException();
+//        }
+//    }
+
+
 }
 
