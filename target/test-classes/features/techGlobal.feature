@@ -56,13 +56,12 @@ Feature: TechGlobal Pagination Functionality
 #      |City: Mexico City| Country: Mexico| Population: 21,671,908|
 
 #  Scenario Outline: Validate the Pagination Page cities content
-#    And user should see "<city>" city with info below and an image
+#    And user clicks on Next button and see "<city>" city with info below and an image
 #      | City: Tokyo       | Country: Japan  | Population: 37,435,191 |
 #      | City: Delhi       | Country: India  | Population: 29,399,141 |
 #      | City: Shangai     | Country: China  | Population: 26,317,104 |
 #      | City: Sao Paulo   | Country: Brasil | Population: 21,846,507 |
 #      | City: Mexico City | Country: Mexico | Population: 21,671,908 |
-#    When user clicks on Next button
 #
 #    Examples:
 #      | city        |

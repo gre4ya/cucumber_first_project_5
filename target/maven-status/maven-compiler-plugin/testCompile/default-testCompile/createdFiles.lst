@@ -6,6 +6,7 @@ pages/TechGlobalBasePage.class
 pages/TechGlobalPaginationPage.class
 steps/Hooks.class
 utils/ConfigReader.class
+steps/TGSteps.class
 utils/TextHandler.class
 pages/TechGlobalFrontendTestingHomePage.class
 utils/DropdownHandler.class

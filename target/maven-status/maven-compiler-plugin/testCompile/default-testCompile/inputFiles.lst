@@ -1,8 +1,8 @@
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/DropdownHandler.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/WindowHandler.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/Driver.java
+/Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/steps/TGSteps.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/TextHandler.java
-/Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalFrontendTestingHomePage.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/steps/Hooks.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/Waiter.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalBasePage.java
@@ -10,3 +10,4 @@
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/runner/Runner.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/utils/ConfigReader.java
 /Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/steps/TechGlobalSteps.java
+/Users/gre4ya/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalFrontendTestingHomePage.java

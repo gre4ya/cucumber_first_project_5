@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 905350852,
+              "duration": 1870782768,
               "status": "passed"
             },
             "line": 4,
@@ -29,7 +29,7 @@
           },
           {
             "result": {
-              "duration": 82974328,
+              "duration": 358818343,
               "status": "passed"
             },
             "line": 5,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 509683371,
+              "duration": 643702603,
               "status": "passed"
             },
             "line": 6,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 10697148,
+              "duration": 15454069,
               "status": "passed"
             },
             "line": 7,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 337203321,
+              "duration": 394371474,
               "status": "passed"
             },
             "line": 8,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 10346032,
+              "duration": 7558910,
               "status": "passed"
             },
             "line": 9,
@@ -111,7 +111,16 @@
         "before": [
           {
             "result": {
-              "duration": 4127921449,
+              "duration": 5326230354,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TGSteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2770295,
               "status": "passed"
             },
             "match": {
@@ -126,7 +135,7 @@
         "after": [
           {
             "result": {
-              "duration": 174249430,
+              "duration": 319512830,
               "status": "passed"
             },
             "match": {
@@ -139,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 31080996,
+              "duration": 23844107,
               "status": "passed"
             },
             "line": 12,
@@ -157,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 24265766,
+              "duration": 30356569,
               "status": "passed"
             },
             "line": 13,
@@ -175,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 38822949,
+              "duration": 52009694,
               "status": "passed"
             },
             "line": 14,
@@ -202,7 +211,7 @@
         "steps": [
           {
             "result": {
-              "duration": 943294954,
+              "duration": 976460650,
               "status": "passed"
             },
             "line": 4,
@@ -220,7 +229,7 @@
           },
           {
             "result": {
-              "duration": 84036597,
+              "duration": 108849700,
               "status": "passed"
             },
             "line": 5,
@@ -232,7 +241,7 @@
           },
           {
             "result": {
-              "duration": 552675097,
+              "duration": 495197231,
               "status": "passed"
             },
             "line": 6,
@@ -244,7 +253,7 @@
           },
           {
             "result": {
-              "duration": 11766814,
+              "duration": 7100398,
               "status": "passed"
             },
             "line": 7,
@@ -262,7 +271,7 @@
           },
           {
             "result": {
-              "duration": 404824769,
+              "duration": 333397585,
               "status": "passed"
             },
             "line": 8,
@@ -280,7 +289,7 @@
           },
           {
             "result": {
-              "duration": 12592459,
+              "duration": 10653933,
               "status": "passed"
             },
             "line": 9,
@@ -302,7 +311,16 @@
         "before": [
           {
             "result": {
-              "duration": 2725310673,
+              "duration": 3475622131,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TGSteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1576530,
               "status": "passed"
             },
             "match": {
@@ -317,7 +335,7 @@
         "after": [
           {
             "result": {
-              "duration": 194378902,
+              "duration": 240211015,
               "status": "passed"
             },
             "match": {
@@ -330,7 +348,7 @@
         "steps": [
           {
             "result": {
-              "duration": 24362525,
+              "duration": 25681036,
               "status": "passed"
             },
             "line": 17,
@@ -348,7 +366,7 @@
           },
           {
             "result": {
-              "duration": 59574433,
+              "duration": 17070788,
               "status": "passed"
             },
             "line": 18,
@@ -366,7 +384,7 @@
           },
           {
             "result": {
-              "duration": 260273288,
+              "duration": 38249464,
               "status": "passed"
             },
             "line": 19,
@@ -378,7 +396,7 @@
           },
           {
             "result": {
-              "duration": 34229302,
+              "duration": 336757384,
               "status": "passed"
             },
             "line": 20,
@@ -396,7 +414,7 @@
           },
           {
             "result": {
-              "duration": 396446624,
+              "duration": 551565440,
               "status": "passed"
             },
             "line": 21,
@@ -408,7 +426,7 @@
           },
           {
             "result": {
-              "duration": 14671473,
+              "duration": 13228125,
               "status": "passed"
             },
             "line": 22,
@@ -426,7 +444,7 @@
           },
           {
             "result": {
-              "duration": 12068890,
+              "duration": 11587100,
               "status": "passed"
             },
             "line": 23,
@@ -453,7 +471,7 @@
         "steps": [
           {
             "result": {
-              "duration": 872835535,
+              "duration": 869821046,
               "status": "passed"
             },
             "line": 4,
@@ -471,7 +489,7 @@
           },
           {
             "result": {
-              "duration": 75794628,
+              "duration": 206091936,
               "status": "passed"
             },
             "line": 5,
@@ -483,7 +501,7 @@
           },
           {
             "result": {
-              "duration": 744656309,
+              "duration": 519971990,
               "status": "passed"
             },
             "line": 6,
@@ -495,7 +513,7 @@
           },
           {
             "result": {
-              "duration": 10698479,
+              "duration": 8471287,
               "status": "passed"
             },
             "line": 7,
@@ -513,7 +531,7 @@
           },
           {
             "result": {
-              "duration": 358038865,
+              "duration": 355949508,
               "status": "passed"
             },
             "line": 8,
@@ -531,7 +549,7 @@
           },
           {
             "result": {
-              "duration": 5634747,
+              "duration": 7110468,
               "status": "passed"
             },
             "line": 9,
@@ -553,7 +571,16 @@
         "before": [
           {
             "result": {
-              "duration": 2627793268,
+              "duration": 3114953339,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TGSteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1575955,
               "status": "passed"
             },
             "match": {
@@ -568,7 +595,7 @@
         "after": [
           {
             "result": {
-              "duration": 167115210,
+              "duration": 200114941,
               "status": "passed"
             },
             "match": {
@@ -581,7 +608,7 @@
         "steps": [
           {
             "result": {
-              "duration": 144239595,
+              "duration": 199355445,
               "status": "passed"
             },
             "line": 27,
@@ -602,7 +629,7 @@
           },
           {
             "result": {
-              "duration": 105088420,
+              "duration": 95352589,
               "status": "passed"
             },
             "line": 29,
@@ -614,7 +641,7 @@
           },
           {
             "result": {
-              "duration": 190750573,
+              "duration": 284642782,
               "status": "passed"
             },
             "line": 30,
@@ -635,7 +662,7 @@
           },
           {
             "result": {
-              "duration": 483821321,
+              "duration": 26044084,
               "status": "passed"
             },
             "line": 32,
@@ -647,7 +674,7 @@
           },
           {
             "result": {
-              "duration": 62946574,
+              "duration": 73375808,
               "status": "passed"
             },
             "line": 33,
@@ -668,7 +695,7 @@
           },
           {
             "result": {
-              "duration": 29585452,
+              "duration": 25035712,
               "status": "passed"
             },
             "line": 35,
@@ -680,7 +707,7 @@
           },
           {
             "result": {
-              "duration": 63539470,
+              "duration": 81087263,
               "status": "passed"
             },
             "line": 36,
@@ -701,7 +728,7 @@
           },
           {
             "result": {
-              "duration": 30487079,
+              "duration": 30467958,
               "status": "passed"
             },
             "line": 38,
@@ -713,7 +740,7 @@
           },
           {
             "result": {
-              "duration": 66128352,
+              "duration": 63623324,
               "status": "passed"
             },
             "line": 39,
@@ -740,6 +767,213 @@
     "id": "techglobal-pagination-functionality",
     "keyword": "Feature",
     "uri": "src/test/resources/features/techGlobal.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1308972683,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"https://techglobal-training.netlify.app/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/\"",
+                  "offset": 11
+                }
+              ],
+              "location": "TechGlobalSteps.userIsOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 161556987,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user moves to Practices header dropdown",
+            "match": {
+              "location": "TechGlobalSteps.userMovesToHeaderDropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 548798612,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Frontend Testing header dropdown option",
+            "match": {
+              "location": "TechGlobalSteps.userClicksOnFrontendTestingHeaderDropdownOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7113541,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 352174379,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"Pagination\" card",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pagination\"",
+                  "offset": 15
+                }
+              ],
+              "location": "TechGlobalSteps.userClicksOnCard(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9474205,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be navigated to \"https://techglobal-training.netlify.app/frontend/pagination\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://techglobal-training.netlify.app/frontend/pagination\"",
+                  "offset": 28
+                }
+              ],
+              "location": "TechGlobalSteps.userShouldBeNavigatedTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2884224929,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TGSteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1181376,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TechGlobalSteps.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Validate the Pagination Page cities content",
+        "description": "",
+        "id": "techglobal-pagination-functionality-test;validate-the-pagination-page-cities-content",
+        "after": [
+          {
+            "result": {
+              "duration": 235125613,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "java.lang.ClassCastException: java.lang.String cannot be cast to java.util.List\n\tat steps.TGSteps.user_see_city_city_with_info_below_and_an_image_and_clicks_on_Next_button(TGSteps.java:52)\n\tat ✽.user see cities with info below and an image and clicks on Next button(src/test/resources/features/tg.feature:12)\n",
+              "duration": 117495091,
+              "status": "failed"
+            },
+            "line": 12,
+            "name": "user see cities with info below and an image and clicks on Next button",
+            "match": {
+              "location": "TGSteps.user_see_city_city_with_info_below_and_an_image_and_clicks_on_Next_button(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "City: Tokyo",
+                  "Country: Japan",
+                  "Population: 37,435,191"
+                ]
+              },
+              {
+                "cells": [
+                  "City: Delhi",
+                  "Country: India",
+                  "Population: 29,399,141"
+                ]
+              },
+              {
+                "cells": [
+                  "City: Shangai",
+                  "Country: China",
+                  "Population: 26,317,104"
+                ]
+              },
+              {
+                "cells": [
+                  "City: Sao Paulo",
+                  "Country: Brasil",
+                  "Population: 21,846,507"
+                ]
+              },
+              {
+                "cells": [
+                  "City: Mexico City",
+                  "Country: Mexico",
+                  "Population: 21,671,908"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "TechGlobal Pagination Functionality test",
+    "description": "",
+    "id": "techglobal-pagination-functionality-test",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/tg.feature",
     "tags": []
   }
 ]
