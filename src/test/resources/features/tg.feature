@@ -1,3 +1,4 @@
+
 Feature: TechGlobal Pagination Functionality test
 
   Background:
